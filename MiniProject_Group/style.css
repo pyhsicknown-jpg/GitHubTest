@@ -1,0 +1,58 @@
+body {
+    background: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.navbar {
+    margin-bottom: 30px;
+    border-radius: 8px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.form-box {
+    max-width: 500px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+}
+
+.form-box h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.form-control {
+    padding: 11px;
+    border-radius: 6px;
+}
+
+.form-box .btn-primary {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.form-box .btn-link {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.course-box {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 12px;
+    border-radius: 8px;
+}
+
+.course-box:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
